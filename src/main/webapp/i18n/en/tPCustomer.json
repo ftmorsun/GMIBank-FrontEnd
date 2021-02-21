@@ -1,0 +1,37 @@
+{
+  "gmibankfrontendApp": {
+    "tPCustomer": {
+      "home": {
+        "title": "Customers",
+        "createLabel": "Create a new Customer",
+        "createOrEditLabel": "Create or edit a Customer",
+        "notFound": "No Customers found"
+      },
+      "created": "A new Customer is created with identifier {{ param }}",
+      "updated": "A Customer is updated with identifier {{ param }}",
+      "deleted": "A Customer is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Customer {{ id }}?"
+      },
+      "detail": {
+        "title": "Customer"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "middleInitial": "Middle Initial",
+      "email": "Email",
+      "mobilePhoneNumber": "Mobile Phone Number",
+      "phoneNumber": "Phone Number",
+      "zipCode": "Zip Code",
+      "address": "Address",
+      "city": "City",
+      "ssn": "Ssn",
+      "createDate": "Create Date",
+      "zelleEnrolled": "Zelle Enrolled",
+      "country": "Country",
+      "state": "State",
+      "user": "User",
+      "account": "Account"
+    }
+  }
+}

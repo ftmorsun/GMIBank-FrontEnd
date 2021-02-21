@@ -1,0 +1,23 @@
+{
+  "gmibankfrontendApp": {
+    "tPCountry": {
+      "home": {
+        "title": "TP Countries",
+        "createLabel": "Create a new TP Country",
+        "createOrEditLabel": "Create or edit a TP Country",
+        "notFound": "No TP Countries found"
+      },
+      "created": "A new TP Country is created with identifier {{ param }}",
+      "updated": "A TP Country is updated with identifier {{ param }}",
+      "deleted": "A TP Country is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete TP Country {{ id }}?"
+      },
+      "detail": {
+        "title": "TP Country"
+      },
+      "name": "Name",
+      "state": "State"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "gmibankfrontendApp": {
+    "tPAccount": {
+      "home": {
+        "title": "Accounts",
+        "createLabel": "Create a new Account",
+        "createOrEditLabel": "Create or edit a Account",
+        "notFound": "No Accounts found"
+      },
+      "created": "A new Account is created with identifier {{ param }}",
+      "updated": "An Account is updated with identifier {{ param }}",
+      "deleted": "An Account is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Account {{ id }}?"
+      },
+      "detail": {
+        "title": "Account"
+      },
+      "description": "Description",
+      "balance": "Balance",
+      "accountType": "Account Type",
+      "accountStatusType": "Account Status Type",
+      "createDate": "Create Date",
+      "closedDate": "Closed Date",
+      "employee": "Employee",
+      "accountlog": "Accountlog",
+      "tpcustomer": "Customer"
+    }
+  }
+}
