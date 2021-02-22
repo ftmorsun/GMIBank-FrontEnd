@@ -1,0 +1,10 @@
+{
+  "gmibankfrontendApp": {
+    "TPAccountStatusType": {
+      "null": "",
+      "ACTIVE": "ACTIVE",
+      "SUESPENDED": "SUESPENDED",
+      "CLOSED": "CLOSED"
+    }
+  }
+}

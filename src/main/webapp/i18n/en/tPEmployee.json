@@ -1,0 +1,36 @@
+{
+  "gmibankfrontendApp": {
+    "tPEmployee": {
+      "home": {
+        "title": "TP Employees",
+        "createLabel": "Create a new TP Employee",
+        "createOrEditLabel": "Create or edit a TP Employee",
+        "notFound": "No TP Employees found"
+      },
+      "created": "A new TP Employee is created with identifier {{ param }}",
+      "updated": "A TP Employee is updated with identifier {{ param }}",
+      "deleted": "A TP Employee is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete TP Employee {{ id }}?"
+      },
+      "detail": {
+        "title": "TP Employee"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "hireDate": "Hire Date",
+      "mobilePhoneNumber": "Mobile Phone Number",
+      "phoneNumber": "Phone Number",
+      "zipCode": "Zip Code",
+      "address": "Address",
+      "city": "City",
+      "ssn": "Ssn",
+      "createDate": "Create Date",
+      "country": "Country",
+      "state": "State",
+      "user": "User",
+      "manager": "Manager"
+    }
+  }
+}
